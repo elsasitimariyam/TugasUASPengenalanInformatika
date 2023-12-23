@@ -38,6 +38,7 @@ Ini adalah tahapan saat kita mengembangkan sistem, membuat daftar petunjuk dan l
 
 
 # Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+![2023-12-23](https://github.com/elsasitimariyam/TugasUASPengenalanInformatika/assets/144762238/2a08b28e-d890-4d34-90eb-eaf43835ffb3)
 
 
 # Mencoba Console Sistem Operasi
