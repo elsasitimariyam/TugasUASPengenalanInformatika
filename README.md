@@ -1,7 +1,7 @@
 # Hello Informatics !
 
 # Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-"."Computational thinking atau pemikiran komputasional adalah cara berpikir untuk menyelesaikan suatu masalah. Caranya adalah dengan menguraikan setiap masalah menjadi beberapa bagian atau tahapan yang efektif dan efisien. Ia juga dapat diartikan menjadi sebuah metode untuk menyelesaikan suatu masalah yang dirancang untuk bisa diselesaikan oleh manusia atau sistem atau keduanya.
+*Computational thinking atau pemikiran komputasional adalah cara berpikir untuk menyelesaikan suatu masalah. Caranya adalah dengan menguraikan setiap masalah menjadi beberapa bagian atau tahapan yang efektif dan efisien. Ia juga dapat diartikan menjadi sebuah metode untuk menyelesaikan suatu masalah yang dirancang untuk bisa diselesaikan oleh manusia atau sistem atau keduanya.
 
 Berdasarkan konsepnya, pemikiran komputasional memiliki empat tahap utama, antara lain:
 
