@@ -5,7 +5,7 @@ Computational thinking atau pemikiran komputasional adalah cara berpikir untuk m
 
 Berdasarkan konsepnya, pemikiran komputasional memiliki empat tahap utama, antara lain:
 
-1. Decomposition (Dekomposisi)
+1.Decomposition (Dekomposisi)
 Tahap pertama, dekomposisi, yaitu memecah masalah kompleks menjadi beberapa bagian kecil dan sederhana. Sehingga, kita bisa menemukan masalah yang terjadi dengan menyelesaikannya satu persatu.
 Contohnya, jika seseorang menghadapi masalah kompleks, mereka dapat memecahnya menjadi langkah-langkah atau tahapan-tahapan yang lebih sederhana.
 
@@ -13,21 +13,21 @@ Contohnya, jika seseorang menghadapi masalah kompleks, mereka dapat memecahnya m
 
 * Internalisasi: Praktikkan dekomposisi saat menghadapi masalah sehari-hari, seperti merencanakan pekerjaan rumah tangga atau proyek studi.
 
-2. Pattern recognition (Pengenalan pola)
+2.Pattern recognition (Pengenalan pola)
 Pengenalan pola akan membantu kamu dalam memecahkan masalah. Nah, pada tahap ini, kita mencari pola atau persamaan tertentu dalam sebuah masalah.
 
-Penjelasan: Jelaskan bahwa pengenalan pola membantu dalam mengidentifikasi solusi yang telah terbukti efektif dalam konteks tertentu.
+* Penjelasan: Jelaskan bahwa pengenalan pola membantu dalam mengidentifikasi solusi yang telah terbukti efektif dalam konteks tertentu.
 
-Internalisasi: Latih diri untuk mengidentifikasi pola dalam data atau masalah sehari-hari, seperti pola belanja atau pola tidur.
+* Internalisasi: Latih diri untuk mengidentifikasi pola dalam data atau masalah sehari-hari, seperti pola belanja atau pola tidur.
 
-3. Abstraction (Abstraksi)
+3.Abstraction (Abstraksi)
 Beberapa hal yang dilakukan pada tahap abstraksi antara lain, melihat permasalahan, melakukan generalisasi, dan melakukan identifikasi informasi. Dengan cara ini, kita dapat melihat informasi penting dan mengabaikan informasi yang kurang relevan.
 
 * Penjelasan: Jelaskan bahwa abstraksi membantu menyederhanakan masalah sehingga lebih mudah dipahami dan dipecahkan.
 
 * Internalisasi: Praktikkan abstraksi dengan menyederhanakan masalah sehari-hari, seperti menyusun rencana perjalanan atau mengelola waktu.
 
-4. Algorithm (Algoritma)
+4.Algorithm (Algoritma)
 Ini adalah tahapan saat kita mengembangkan sistem, membuat daftar petunjuk dan langkah-langkah pemecahan masalah secara efektif dan efisien.
 
 * Penjelasan: Jelaskan bahwa desain algoritma membantu dalam mengembangkan rencana langkah-demi-langkah untuk mencapai tujuan.
