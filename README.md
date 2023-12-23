@@ -1,21 +1,38 @@
 # Hello Informatics !
 
 # Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-* Computational thinking atau pemikiran komputasional adalah cara berpikir untuk menyelesaikan suatu masalah. Caranya adalah dengan menguraikan setiap masalah menjadi beberapa bagian atau tahapan yang efektif dan efisien. Ia juga dapat diartikan menjadi sebuah metode untuk menyelesaikan suatu masalah yang dirancang untuk bisa diselesaikan oleh manusia atau sistem atau keduanya.
+Computational thinking atau pemikiran komputasional adalah cara berpikir untuk menyelesaikan suatu masalah. Caranya adalah dengan menguraikan setiap masalah menjadi beberapa bagian atau tahapan yang efektif dan efisien. Ia juga dapat diartikan menjadi sebuah metode untuk menyelesaikan suatu masalah yang dirancang untuk bisa diselesaikan oleh manusia atau sistem atau keduanya.
 
 Berdasarkan konsepnya, pemikiran komputasional memiliki empat tahap utama, antara lain:
 
-Decomposition (Dekomposisi)
+1. Decomposition (Dekomposisi)
 Tahap pertama, dekomposisi, yaitu memecah masalah kompleks menjadi beberapa bagian kecil dan sederhana. Sehingga, kita bisa menemukan masalah yang terjadi dengan menyelesaikannya satu persatu.
+Contohnya, jika seseorang menghadapi masalah kompleks, mereka dapat memecahnya menjadi langkah-langkah atau tahapan-tahapan yang lebih sederhana.
 
-Pattern recognition (Pengenalan pola)
+* Penjelasan: Jelaskan bahwa dekomposisi membantu memecahkan masalah besar menjadi masalah-masalah yang lebih kecil, yang lebih mudah dikelola.
+
+* Internalisasi: Praktikkan dekomposisi saat menghadapi masalah sehari-hari, seperti merencanakan pekerjaan rumah tangga atau proyek studi.
+
+2. Pattern recognition (Pengenalan pola)
 Pengenalan pola akan membantu kamu dalam memecahkan masalah. Nah, pada tahap ini, kita mencari pola atau persamaan tertentu dalam sebuah masalah.
 
-Abstraction (Abstraksi)
+Penjelasan: Jelaskan bahwa pengenalan pola membantu dalam mengidentifikasi solusi yang telah terbukti efektif dalam konteks tertentu.
+
+Internalisasi: Latih diri untuk mengidentifikasi pola dalam data atau masalah sehari-hari, seperti pola belanja atau pola tidur.
+
+3. Abstraction (Abstraksi)
 Beberapa hal yang dilakukan pada tahap abstraksi antara lain, melihat permasalahan, melakukan generalisasi, dan melakukan identifikasi informasi. Dengan cara ini, kita dapat melihat informasi penting dan mengabaikan informasi yang kurang relevan.
 
-Algorithm (Algoritma)
+* Penjelasan: Jelaskan bahwa abstraksi membantu menyederhanakan masalah sehingga lebih mudah dipahami dan dipecahkan.
+
+* Internalisasi: Praktikkan abstraksi dengan menyederhanakan masalah sehari-hari, seperti menyusun rencana perjalanan atau mengelola waktu.
+
+4. Algorithm (Algoritma)
 Ini adalah tahapan saat kita mengembangkan sistem, membuat daftar petunjuk dan langkah-langkah pemecahan masalah secara efektif dan efisien.
+
+* Penjelasan: Jelaskan bahwa desain algoritma membantu dalam mengembangkan rencana langkah-demi-langkah untuk mencapai tujuan.
+
+* Internalisasi: Terapkan desain algoritma dalam tugas-tugas rutin, seperti merencanakan kegiatan harian atau menyelesaikan pekerjaan rumah.
 
 # Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
