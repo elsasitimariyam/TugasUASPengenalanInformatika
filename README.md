@@ -37,7 +37,7 @@ Ini adalah tahapan saat kita mengembangkan sistem, membuat daftar petunjuk dan l
 # Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 
-# Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+# Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 
 # Mencoba Console Sistem Operasi
