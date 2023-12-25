@@ -282,7 +282,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 # Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
+![2023-12-26 (1)](https://github.com/elsasitimariyam/TugasUASPengenalanInformatika/assets/144762238/2f147e59-698b-48b6-8d08-e830d26bc541)
 
 # Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
