@@ -116,6 +116,7 @@ Optimisasi kompleks dalam keuangan dan logistik.
 # Mencoba Console Sistem Operasi
 
 # Windows CMD [v] ⭐⭐⭐⭐
+![2023-12-25](https://github.com/elsasitimariyam/TugasUASPengenalanInformatika/assets/144762238/6a778b83-36f7-4e9d-aba2-512aa23e70d0)
 
 Referensi 1
 
