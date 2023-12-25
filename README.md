@@ -35,7 +35,71 @@ Ini adalah tahapan saat kita mengembangkan sistem, membuat daftar petunjuk dan l
 * Internalisasi: Terapkan desain algoritma dalam tugas-tugas rutin, seperti merencanakan kegiatan harian atau menyelesaikan pekerjaan rumah.
 
 # Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Mesin komputasi adalah perangkat keras atau kombinasi perangkat keras dan perangkat lunak yang dirancang untuk melakukan berbagai jenis tugas komputasi. Jenis-jenis mesin komputasi dapat dibagi menjadi beberapa kategori berdasarkan fungsinya dan arsitektur perangkat kerasnya. Berikut adalah beberapa jenis mesin komputasi utama:
 
+1. Superkomputer:
+
+Superkomputer adalah mesin komputasi paling kuat dan paling canggih. Mereka dirancang untuk menangani perhitungan besar dan kompleks dengan kecepatan yang sangat tinggi.
+Penggunaan:
+Penelitian ilmiah tingkat tinggi (fisika nuklir, iklim, simulasi bahan).
+Permodelan cuaca dan prediksi.
+Pengembangan senjata dan simulasi nuklir.
+
+2. Mainframe:
+
+Mainframe adalah komputer besar yang dirancang untuk menangani sejumlah besar data dan tugas pemrosesan transaksional pada tingkat tinggi.
+Penggunaan:
+Pengolahan transaksi perbankan dan keuangan.
+Manajemen data perusahaan dan basis data skala besar.
+Layanan jaringan dan komunikasi tingkat tinggi.
+
+3. Minicomputer:
+
+Minicomputer berada di antara ukuran komputer mikro (personal computer) dan mainframe. Awalnya dirancang untuk memenuhi kebutuhan pemrosesan yang lebih kecil dari perusahaan atau laboratorium riset.
+Penggunaan:
+Pemrosesan ilmiah dan teknis di laboratorium riset.
+Pengendalian mesin industri dan otomatisasi.
+Pengelolaan jaringan kecil hingga menengah.
+
+4. Personal Computer (PC):
+
+PC adalah komputer yang dirancang untuk digunakan oleh satu orang. Ini mencakup desktop, laptop, dan workstation.
+Penggunaan:
+Penggunaan umum untuk pekerjaan kantor, pendidikan, dan hiburan.
+Pengembangan perangkat lunak dan desain grafis.
+Navigasi internet dan komunikasi.
+
+5. Server:
+
+Server adalah komputer yang dirancang untuk menyediakan layanan, sumber daya, atau data kepada komputer lain dalam jaringan.
+Penggunaan:
+Hosting situs web dan aplikasi.
+Penyimpanan dan pengelolaan data.
+Layanan cloud computing.
+
+6. Embedded System:
+
+Embedded system adalah sistem komputer yang terintegrasi dalam perangkat lain dan dirancang untuk melakukan fungsi tertentu.
+Penggunaan:
+Kontrol otomotif dalam mobil.
+Sistem kontrol pintu pintu gerbang otomatis.
+Perangkat elektronik konsumen seperti kamera digital dan oven microwave.
+
+7. Sistem Terdistribusi:
+
+Sistem terdistribusi adalah jaringan komputer yang terdiri dari beberapa komputer atau server yang bekerja bersama untuk menyelesaikan tugas tertentu.
+Penggunaan:
+Komputasi grid untuk penelitian ilmiah.
+Layanan cloud computing terdistribusi.
+Proses data paralel.
+
+8. Quantum Computer:
+
+Quantum computer menggunakan prinsip-prinsip mekanika kuantum untuk melakukan perhitungan. Mereka berpotensi untuk menangani permasalahan kompleks dengan sangat cepat.
+Penggunaan (potensial):
+Faktorisasi angka besar (dalam kriptografi).
+Simulasi molekuler dan kimia.
+Optimisasi kompleks dalam keuangan dan logistik.
 
 # Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 ![2023-12-23](https://github.com/elsasitimariyam/TugasUASPengenalanInformatika/assets/144762238/2a08b28e-d890-4d34-90eb-eaf43835ffb3)
