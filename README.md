@@ -121,6 +121,7 @@ Optimisasi kompleks dalam keuangan dan logistik.
 Referensi 1
 
 # Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+![2023-12-26](https://github.com/elsasitimariyam/TugasUASPengenalanInformatika/assets/144762238/7f2c1d5f-33c8-42fb-834b-1304b01eb940)
 
 
 # Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
