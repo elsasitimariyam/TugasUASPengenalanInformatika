@@ -246,6 +246,8 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 # Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 
+https://www.kaggle.com/elsasitimariyam
+
 # Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 
