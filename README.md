@@ -213,6 +213,8 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 # Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 
+https://wordpress.com/posts/sitimariyamelsa.wordpress.com
+
 # Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 
