@@ -125,6 +125,8 @@ Referensi 1
 
 
 # Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+![Diagram Tanpa Judul drawio](https://github.com/elsasitimariyam/TugasUASPengenalanInformatika/assets/144762238/87f50ac0-8408-403c-8006-df2ebfbcef59)
+
 
 Referensi 1
 
