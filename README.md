@@ -288,6 +288,8 @@ https://www.duolingo.com/profile/ElsaSitiMa1
 # Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 
+https://sitimariyamelsa.wordpress.com/2023/12/26/ai-and-data-scientist/
+
 # Eksplorasi Top Github Project yang Diminati ⭐⭐
 
 
