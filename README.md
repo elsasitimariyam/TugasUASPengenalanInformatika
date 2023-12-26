@@ -271,6 +271,8 @@ https://www.kaggle.com/elsasitimariyam
 # Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 
+https://sitimariyamelsa.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
+
 # Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 
