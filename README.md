@@ -133,7 +133,7 @@ Referensi 1
 Referensi 1
 
 # Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
+https://scratch.mit.edu/users/Elsasitimariyam/
 Referensi 1
 
 # Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
