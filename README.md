@@ -110,7 +110,9 @@ Simulasi molekuler dan kimia.
 Optimisasi kompleks dalam keuangan dan logistik.
 
 # Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
 ![2023-12-23](https://github.com/elsasitimariyam/TugasUASPengenalanInformatika/assets/144762238/2a08b28e-d890-4d34-90eb-eaf43835ffb3)
+
 
 https://colab.research.google.com/drive/1vW3H84R2PqAy0cgoVJsAIMmmWxbn9mEU?usp=sharing
 
