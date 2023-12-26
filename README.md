@@ -306,4 +306,6 @@ https://github.com/elsasitimariyam
 # Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 
+https://sitimariyamelsa.wordpress.com/2023/12/26/google-developer-student-clubs-gdsc-chapter-uin-sunan-gunung-djati-bandung/
+
 # Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
