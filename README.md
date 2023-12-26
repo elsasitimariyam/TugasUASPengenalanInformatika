@@ -286,6 +286,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 # Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
 https://www.linkedin.com/in/elsa-siti-mariyam-445b232a6/
 
 # Membangun Profil Github Page ⭐⭐⭐⭐⭐
